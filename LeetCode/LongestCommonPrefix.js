@@ -1,0 +1,3 @@
+
+function findTheLongestCommonPrefix(arr) {
+}
